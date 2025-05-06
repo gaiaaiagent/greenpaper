@@ -55,7 +55,7 @@ GAIA AI focuses on two primary components:
 
 A central focus of GAIA AI is bioregional intelligence—AI that is grounded in specific places and their unique ecological and cultural contexts. Our bioregional approach features:
 
-- **Fractally Nested Local Knowledge & Action networks**
+- **Fractally NESTED Local Knowledge & Action networks**
 - **Bioregional Knowledge Commons**: Community-stewarded information, knowledge, stories, and protocols
 - **Data Sovereignty**: Local data sovereignty while participating in global knowledge networks
 - **Place-Based Digital Twins**: Ecological modeling that represents relationships, processes and patterns
@@ -214,19 +214,65 @@ Beyond specialized domain agents, GAIA AI includes representatives of Earth's ne
 
 These bioregional representatives function within what we call "Bioregional Knowledge Commons"—community-stewarded pools of information, knowledge, and protocols rooted in specific places. Unlike conventional knowledge repositories, these commons are structured through semantic ontologies that reflect the unique realities of each bioregion.
 
-The implementation follows a layered approach:
+The implementation follows a multi-layered, integrated approach:
 
-1. **Biophysical Layer**: Tracking ecological metrics like water quality, soil health, biodiversity indicators, and climate patterns specific to the bioregion.
+1. **Biophysical Layer**: Tracking ecological metrics and patterns specific to the bioregion, including:
+   - Water cycles and watershed dynamics
+   - Soil health, carbon sequestration, and fertility
+   - Biodiversity indicators and species interactions
+   - Climate patterns and weather systems
+   - Energy flows and material cycles
+   - Ecosystem services and functional relationships
 
-2. **Social Layer**: Connecting community practices, surplus exchanges, skill-sharing networks, and cultural knowledge that relates to the bioregion.
+2. **Social Layer**: Mapping human relationships, cultural knowledge, and patterns of care:
+   - Community practices and traditional skills
+   - Care networks and mutual aid systems
+   - Cultural knowledge, traditions, and celebrations
+   - Intergenerational wisdom transfer mechanisms
+   - Collaborative projects and collective work patterns
+   - Identity and place-based relationships
 
-3. **Governance Layer**: Encoding local decision-making protocols, conflict resolution mechanisms, and stewardship principles.
+3. **Economic Layer**: Tracking flows of value, resources, and needs:
+   - Local exchange systems and markets
+   - Resource flows and circular economy patterns
+   - Needs assessment and surplus/deficit mapping
+   - Regional value chains and production systems
+   - Commons-based economic activities
+   - Non-monetary value exchange systems
 
-4. **Semantic Layer**: Providing context-specific definitions and relationships that trigger appropriate responses when thresholds are crossed or patterns emerge.
+4. **Governance Layer**: Encoding decision-making processes and stewardship practices:
+   - Local decision protocols and consensus mechanisms
+   - Stewardship responsibilities and rights frameworks
+   - Conflict resolution processes and restorative practices
+   - Land and water management agreements
+   - Cross-boundary coordination systems
+   - Adaptive governance patterns that respond to ecosystem changes
 
-Through this approach, each bioregion maintains its unique knowledge structure while participating in the broader network. For example, the Cascadia bioregional agent—the first to be implemented—might organize knowledge around salmon cycles, forest health, and Indigenous stewardship practices specific to the Pacific Northwest, while a Mediterranean bioregional agent might focus on drought resilience, olive cultivation, and maritime traditions.
+5. **Semantic Layer**: Providing context-specific meaning and interpretation:
+   - Local definitions of key terms with cultural context
+   - Thresholds that trigger specific actions or alerts
+   - Relationships and translations between knowledge systems
+   - Pattern recognition and meaning-making frameworks
+   - Contextual rules for interpreting data and observations
+   - Evolving understanding of relationships and causality
 
-Communities worldwide can contribute ecological or cultural data to local agents while benefiting from the swarm of collective global knowledge commons. Local realities guide global patterns, which then re-inform local solutions—a symbiotic loop that fosters rapid learning and adaptation while maintaining the integrity and sovereignty of place-based knowledge.
+6. **Temporal Layer**: Tracking historical patterns and future projections:
+   - Historical ecological baselines and change patterns
+   - Cultural memory, stories, and traditional ecological knowledge
+   - Succession and regeneration patterns in ecosystems
+   - Seasonal rhythms and multi-year cycles
+   - Anticipatory systems for climate adaptation
+   - Intergenerational planning frameworks
+
+These layers are not isolated but deeply interconnected through feedback loops, with information flowing multi-directionally. For example, changes in the biophysical layer might trigger responses in the governance layer, while cultural practices in the social layer might influence economic activities, all interpreted through the semantic layer and contextualized by the temporal layer.
+
+The system is designed to operate at multiple nested scales within each bioregion—from neighborhood watersheds to entire river basins—allowing for appropriate locality in decision-making while maintaining coherence across scales. This multi-scale approach enables both highly localized action and broader regional coordination.
+
+Each bioregional representative evolves through community participation, with explicit feedback mechanisms to measure effectiveness and clear processes for incorporating new knowledge and adapting to changing conditions. Version control for ontological definitions, regular community review processes, and pathways for testing innovations ensure the system remains dynamic and responsive.
+
+Initially, GAIA AI will be seeded with a bioregional agent representing the Cascadia Bioregion as a pilot implementation, with plans to expand to other bioregions as communities engage with the platform. Each new bioregional representative will be uniquely adapted to local conditions while maintaining interoperability with the broader network.
+
+Through this approach, communities worldwide can contribute ecological or cultural data to local agents while benefiting from the swarm of collective global knowledge commons. Local realities guide global patterns, which then re-inform local solutions—a symbiotic loop that fosters rapid learning and adaptation while maintaining the integrity and sovereignty of place-based knowledge.
 
 #### 7.3 Knowledge Commons and Data Architecture
 
